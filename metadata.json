@@ -1,0 +1,5 @@
+{
+  "name": "Compassion Dashboard",
+  "description": "An application to evaluate and improve AI chatbot responses for mental health-related queries based on the 'process view of compassion' theory. It scores responses on four compassion stages and provides feedback to make them kinder and safer.",
+  "requestFramePermissions": []
+}
